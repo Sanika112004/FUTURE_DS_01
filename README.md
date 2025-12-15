@@ -57,5 +57,3 @@ The objective of this project is to analyze SuperStore e-commerce sales data and
 B.E. Artificial Intelligence & Data Science  
 A. C. Patil College of Engineering
 
-
-## 📁 Project Structure
